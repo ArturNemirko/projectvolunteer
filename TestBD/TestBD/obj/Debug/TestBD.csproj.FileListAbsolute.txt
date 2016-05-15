@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\TestBD.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\obj\Debug\TestBD.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\TestBD.exe
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\TestBD.pdb
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\dbVolanter.dll
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\dbVolanter.pdb
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\obj\Debug\TestBD.exe
+c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\obj\Debug\TestBD.pdb
