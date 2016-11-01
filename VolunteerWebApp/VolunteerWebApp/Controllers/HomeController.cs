@@ -13,7 +13,7 @@ namespace VolunteerWebApp.Controllers
         {
             ViewBag.Title = "Home Page";
             //Context context = new Context();
-            //context.Ads.Add(new Ads() {IsOpen = true});
+            //context.Ads.Add(new Ads() { IsOpen = true });
             return View();
         }
     }

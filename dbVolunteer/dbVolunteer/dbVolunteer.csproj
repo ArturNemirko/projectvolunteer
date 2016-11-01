@@ -7,8 +7,8 @@
     <ProjectGuid>{1C29843A-C846-4C2B-82F3-EDA6B8714A1A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>dbVolanter</RootNamespace>
-    <AssemblyName>dbVolanter</AssemblyName>
+    <RootNamespace>dbVolunteer</RootNamespace>
+    <AssemblyName>dbVolunteer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

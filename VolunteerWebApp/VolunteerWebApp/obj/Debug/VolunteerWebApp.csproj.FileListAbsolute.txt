@@ -15,7 +15,6 @@ D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\VolunteerWebA
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\VolunteerWebApp.dll
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\VolunteerWebApp.pdb
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\Antlr3.Runtime.dll
-D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolanter.dll
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\EntityFramework.dll
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\EntityFramework.SqlServer.dll
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\Microsoft.AI.Agent.Intercept.dll
@@ -89,4 +88,5 @@ D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\System.Web.Ht
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.csprojResolveAssemblyReference.cache
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.dll
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.pdb
-D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolanter.pdb
+D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolunteer.dll
+D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolunteer.pdb

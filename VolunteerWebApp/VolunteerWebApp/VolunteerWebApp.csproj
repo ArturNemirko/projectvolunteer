@@ -44,8 +44,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="dbVolanter">
-      <HintPath>..\..\dbVolanter\dbVolanter\bin\Debug\dbVolanter.dll</HintPath>
+    <Reference Include="dbVolunteer">
+      <HintPath>..\..\dbVolunteer\dbVolunteer\bin\Debug\dbVolunteer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.0.1011, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.0\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
