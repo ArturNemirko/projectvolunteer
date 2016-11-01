@@ -13,7 +13,7 @@ namespace dbVolunteer
         public virtual Description Description { get; set; }
         public virtual Address Address { get; set; }
 
-        public String Organizer { get; set; }
+        public virtual IUser Organizer { get; set; }
 
         public DateTime TimeOfStart { get; set; }
 

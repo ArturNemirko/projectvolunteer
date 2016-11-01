@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Add Ads";
+}
+
+@using (Html.BeginForm("AddAdsToDB", "Home", FormMethod.Post))
+{
+    @Html.Label("Help Type")
+    @Html.TextBox("helpType")
+    <br />
+    @Html.Label("Description")
+    @Html.TextBox("description")
+    <br />
+    @Html.Label("Address")
+    @Html.TextBox("address")
+    <br />
+    @Html.Label("Organizer")
+    @Html.TextBox("organizer")
+    <input type="submit" value="Enter" />
+}
+
+
+<h2>AddAds</h2>
+
