@@ -10,3 +10,6 @@ c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\Enti
 c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\obj\Debug\TestBD.exe
 c:\users\user\documents\visual studio 2015\Projects\TestBD\TestBD\obj\Debug\TestBD.pdb
+D:\projectsVS\projectvolunteer\TestBD\TestBD\bin\Debug\TestBD.exe.config
+D:\projectsVS\projectvolunteer\TestBD\TestBD\obj\Debug\TestBD.exe
+D:\projectsVS\projectvolunteer\TestBD\TestBD\obj\Debug\TestBD.pdb

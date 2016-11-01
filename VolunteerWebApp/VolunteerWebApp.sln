@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerWebApp", "VolunteerWebApp\VolunteerWebApp.csproj", "{3CFDAC00-6E66-415C-B22D-6622E6DFC830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbVolunteer", "..\dbVolanter\dbVolanter\dbVolunteer.csproj", "{1C29843A-C846-4C2B-82F3-EDA6B8714A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFDAC00-6E66-415C-B22D-6622E6DFC830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFDAC00-6E66-415C-B22D-6622E6DFC830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFDAC00-6E66-415C-B22D-6622E6DFC830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFDAC00-6E66-415C-B22D-6622E6DFC830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C29843A-C846-4C2B-82F3-EDA6B8714A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C29843A-C846-4C2B-82F3-EDA6B8714A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C29843A-C846-4C2B-82F3-EDA6B8714A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C29843A-C846-4C2B-82F3-EDA6B8714A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

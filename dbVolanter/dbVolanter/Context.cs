@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dbVolanter
+namespace dbVolunteer
 {
     public class Context : DbContext
     {
@@ -15,7 +15,7 @@ namespace dbVolanter
         }
 
         public Context()
-            : base("name = Connection")
+            : base("name = ConnectionVolunteerDB")
         { }
 
 
