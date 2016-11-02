@@ -11,7 +11,7 @@ namespace dbVolunteer
     {
         static Context()
         {
-            //Database.SetInitializer(new ContextInitializer());
+            Database.SetInitializer(new ContextInitializer());
         }
 
         public Context()

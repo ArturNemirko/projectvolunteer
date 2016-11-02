@@ -9,12 +9,10 @@ namespace VolunteerWebApp.Controllers
 {
     public class HomeController : Controller
     {
+        private Context db = new Context();
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
-            Context context = new Context();
-            //context.Ads.Add(new Ads() { IsOpen = true });
-            return View();
+            return View(db.Ads.ToList());
         }
 
         public ActionResult AddAds()
@@ -22,9 +20,10 @@ namespace VolunteerWebApp.Controllers
             return View();
         }
 
-        public ActionResult AddAdsToDB()
+        public ActionResult AddAdsToDB(string helpType, string description, string address, string organizer, string comments)
         {
-
+            db.Ads.Add(new Ads() {Id = Guid.NewGuid(), IsOpen = true, TimeOfStart = DateTime.Now, Coments = comments });
+            db.SaveChangesAsync();
             return View("AddAds");
         }
     }

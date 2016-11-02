@@ -1,10 +1,11 @@
-﻿
+﻿@model List<dbVolunteer.HelpType>
 @{
     ViewBag.Title = "Add Ads";
 }
 
 @using (Html.BeginForm("AddAdsToDB", "Home", FormMethod.Post))
 {
+    @*@Html.EnumDropDownListFor(x=>x.Name, Model, new {@class = "form-control"})*@
     @Html.Label("Help Type")
     @Html.TextBox("helpType")
     <br />
@@ -16,9 +17,11 @@
     <br />
     @Html.Label("Organizer")
     @Html.TextBox("organizer")
+    <br />
+    @Html.Label("Comments")
+    @Html.TextBox("comments")
     <input type="submit" value="Enter" />
 }
-
 
 <h2>AddAds</h2>
 
