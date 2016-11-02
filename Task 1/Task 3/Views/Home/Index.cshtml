@@ -1,7 +1,0 @@
-﻿@model List<Task_3.Models.Album>
-@{
-    ViewBag.Title = "Albums";
-}
-
-
-@Html.ListBox("lbox", Model.ConvertAll(s => new SelectListItem() { Text = s.Title}))
