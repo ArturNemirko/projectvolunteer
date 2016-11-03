@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace dbVolunteer
 {
-    public class HelpType
+    public class HelpTypeModel
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-        public virtual ICollection<Ads> Ads { get; set; }
         public HelpTypeIva? HelpTypeIva { get; set; }
     }
 }

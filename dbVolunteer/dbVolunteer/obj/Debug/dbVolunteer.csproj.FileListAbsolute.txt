@@ -17,3 +17,13 @@ D:\projectsVS\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\dbVolunteer.pdb
 D:\projectsVS\projectvolunteer\dbVolunteer\dbVolunteer\obj\Debug\dbVolunteer.dll
 D:\projectsVS\projectvolunteer\dbVolunteer\dbVolunteer\obj\Debug\dbVolunteer.pdb
 D:\projectsVS\projectvolunteer\dbVolunteer\dbVolunteer\obj\Debug\dbVolunteer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\dbVolunteer.dll.config
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\dbVolunteer.dll
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\dbVolunteer.pdb
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\obj\Debug\dbVolunteer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\obj\Debug\dbVolunteer.dll
+C:\Users\User\Documents\GitHub\projectvolunteer\dbVolunteer\dbVolunteer\obj\Debug\dbVolunteer.pdb

@@ -58,6 +58,8 @@
     <Compile Include="Face.cs" />
     <Compile Include="Foto.cs" />
     <Compile Include="HelpType.cs" />
+    <Compile Include="HelpTypeIva.cs" />
+    <Compile Include="HelpTypeModel.cs" />
     <Compile Include="IUser.cs" />
     <Compile Include="Organization.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

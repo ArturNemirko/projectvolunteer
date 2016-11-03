@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dbVolunteer
+namespace VolunteerWebApp
 {
-    public class HelpType
+    public class HelpTypeModel
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-        public virtual ICollection<Ads> Ads { get; set; }
         public HelpTypeIva? HelpTypeIva { get; set; }
     }
 }
