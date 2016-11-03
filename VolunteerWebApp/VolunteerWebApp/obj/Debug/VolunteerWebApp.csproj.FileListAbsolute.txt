@@ -85,7 +85,6 @@ D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\Microsoft.Owi
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\Microsoft.Owin.Security.Twitter.xml
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\System.Web.Http.Owin.xml
-D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.csprojResolveAssemblyReference.cache
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.dll
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.pdb
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolunteer.dll

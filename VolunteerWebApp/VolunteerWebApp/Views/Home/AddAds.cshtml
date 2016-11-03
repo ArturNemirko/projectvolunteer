@@ -1,4 +1,4 @@
-﻿@model List<dbVolunteer.HelpType>
+﻿@model dbVolunteer.HelpType
 
 @{
     ViewBag.Title = "Add Ads";
@@ -6,7 +6,7 @@
 
 @using (Html.BeginForm("AddAdsToDB", "Home", FormMethod.Post))
 {
-    @*@Html.EnumDropDownListFor(model => model.He, Model, new {@class = "form-control"})*@
+    @*@Html.EnumDropDownListFor(x => x.HelpTypeIva, Model, new {@class = "form-control"})*@
     @Html.Label("Help Type")
     @Html.TextBox("helpType")
     <br />

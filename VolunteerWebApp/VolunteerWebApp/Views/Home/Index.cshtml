@@ -1,10 +1,59 @@
-﻿@model List<dbVolunteer.Ads>
+﻿@model List<dbVolunteer.Ads> 
+
 @foreach (var item in Model)
 {
     <tr>
         <td>
-            @Html.Label(item.Coments)
+            <p>@Html.Label(item.Coments)</p>
         </td>
     </tr>
     <br/>
+}
+
+@*<form>
+    <input type="hidden" name="hiddenField" />
+</form>*@
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jquery")
+<script type="text/javascript">
+        $.fn.inlineEdit = function (replaceWith, connectWith) {
+
+            $(this).hover(function () {
+                $(this).addClass('hover');
+            }, function () {
+                $(this).removeClass('hover');
+            });
+
+            $(this).click(function () {
+
+                var elem = $(this);
+
+                elem.hide();
+                elem.after(replaceWith);
+                replaceWith.focus();
+
+                replaceWith.blur(function () {
+
+                    if ($(this).val() != "") {
+                        connectWith.val($(this).val()).change();
+                        elem.text($(this).val());
+                    }
+
+                    $(this).remove();
+                    elem.show();
+                });
+            });
+        };
+</script>
+<script type="text/javascript">
+var replaceWith = $('<input name="temp" type="text" />'),
+    connectWith = $('input[name="hiddenField"]');
+
+$('p').inlineEdit(replaceWith, connectWith);
+</script>
+    
 }
