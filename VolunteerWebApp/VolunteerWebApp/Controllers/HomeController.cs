@@ -12,6 +12,7 @@ namespace VolunteerWebApp.Controllers
         private Context db = new Context();
         public ActionResult Index()
         {
+            var list = db.Ads.ToList();
             return View(db.Ads.ToList());
         }
 
@@ -25,6 +26,23 @@ namespace VolunteerWebApp.Controllers
             db.Ads.Add(new Ads() {Id = Guid.NewGuid(), IsOpen = true, TimeOfStart = DateTime.Now, Coments = comments });
             db.SaveChangesAsync();
             return View("AddAds");
+        }
+
+        public ActionResult FindAds(string nameAds)
+        {
+            Func<Ads, bool> selector = ads => true;
+            if (!string.IsNullOrWhiteSpace(nameAds))
+            {
+                selector = (x) => x.Coments.ToUpper() == nameAds.ToUpper();
+            }
+            if (Request.IsAjaxRequest())
+            {
+                return PartialView("ListAdsView", db.Ads.ToList());
+            }
+            else
+            {
+                return View("Index", db.Ads.ToList());
+            }
         }
     }
 }

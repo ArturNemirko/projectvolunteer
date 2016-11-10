@@ -1,0 +1,14 @@
+﻿@model IEnumerable<dbVolunteer.Ads>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            <p>@Html.Label(item.Coments)</p>
+        </td>
+    </tr>
+    <br />
+}

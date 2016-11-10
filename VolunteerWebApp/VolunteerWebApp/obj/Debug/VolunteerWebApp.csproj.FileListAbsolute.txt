@@ -88,7 +88,6 @@ D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\System.Web.Ht
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.dll
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.pdb
 D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolunteer.dll
-D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolunteer.pdb
 C:\Users\User\Documents\GitHub\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\ApplicationInsights.config
 C:\Users\User\Documents\GitHub\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\roslyn\csc.exe
 C:\Users\User\Documents\GitHub\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -181,3 +180,5 @@ C:\Users\User\Documents\GitHub\projectvolunteer\VolunteerWebApp\VolunteerWebApp\
 C:\Users\User\Documents\GitHub\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\GitHub\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.dll
 C:\Users\User\Documents\GitHub\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.pdb
+D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\obj\Debug\VolunteerWebApp.csprojResolveAssemblyReference.cache
+D:\projectsVS\projectvolunteer\VolunteerWebApp\VolunteerWebApp\bin\dbVolunteer.pdb

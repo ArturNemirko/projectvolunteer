@@ -1,12 +1,23 @@
 ﻿@model List<dbVolunteer.Ads> 
 
+@using (Ajax.BeginForm("FindAds", new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "update",
+    LoadingElementId = "loader"
+}))
+{
+    @Html.TextBox("nameAds")
+    <input type="submit" value="Search" />
+}
+
 @foreach (var item in Model)
 {
-    <tr>
-        <td>
-            <p>@Html.Label(item.Coments)</p>
-        </td>
-    </tr>
+    <div>
+        <p>@Html.Label(item.Description.Name)</p>
+        <br />
+        <p>@Html.Label(item.Description.Info)</p>
+    </div>
     <br/>
 }
 
